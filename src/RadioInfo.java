@@ -17,6 +17,7 @@ public class RadioInfo {
         });
         */
 
+        System.out.println("tjena");
        ChannelFinder ChannelFinder = new ChannelFinder();
        ChannelFinder.findChannels();
        ChannelFinder.findSchedule();
